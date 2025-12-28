@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Aditya Narendra<br><br>☁️ Cloud & DevOps Engineer | AWS | CI/CD | Automation  <br>🎓 CSE @ Galgotias University  <br><br>---<br><br>## 🔧 Skills<br>- AWS (EC2, S3, IAM, Auto Scaling, CloudWatch)<br>- Docker & GitHub Actions<br>- Linux & Shell Scripting<br>- Python (Automation, Boto3)<br>- Terraform (Basics)<br><br>---<br><br>## 🚀 Projects<br>- Cloud Automation using AWS & Terraform  <br>- CI/CD Pipeline with GitHub Actions  <br>- Cloud Resource Optimization (Research Project)  <br><br>---<br><br>## 📫 Connect with Me<br>- LinkedIn: https://linkedin.com/in/aditya-narendra-9330661b2  <br>- Email: aditya.6805narendra@gmail.com<br>
+# Hi 👋, I'm Aditya Narendra<br><br>☁️ Cloud & DevOps Engineer | AWS | CI/CD | Automation  <br>🎓 CSE @ Galgotias University 2025 <br><br>---<br><br>## 🔧 Skills<br>- AWS (EC2, S3, IAM, Auto Scaling, CloudWatch)<br>- Docker & GitHub Actions<br>- Linux & Shell Scripting<br>- Python (Automation, Boto3)<br>- Terraform (Basics)<br><br>---<br><br>## 🚀 Projects<br>- Cloud Automation using AWS & Terraform  <br>- CI/CD Pipeline with GitHub Actions  <br>- Cloud Resource Optimization (Research Project)  <br><br>---<br><br>## 📫 Connect with Me<br>- LinkedIn: https://linkedin.com/in/aditya-narendra-9330661b2  <br>- Email: aditya.6805narendra@gmail.com<br>
 
 
 ## 🌐 Socials:
